@@ -1,2 +1,2 @@
 # mondrian-painting
-Mondrian painting imitating
+Mondrian painting imitating - by using CSS Grid
